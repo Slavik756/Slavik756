@@ -31,10 +31,7 @@ REST API | Git | GitHub | Responsive/Adaptive Layout
 
 ![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 
-📫 How to reach me:  ы
+📫 How to reach me:  
 
 [LinkedIn](https://www.linkedin.com/in/pokora-viacheslav-1971a8350/) | [Telegram](https://t.me/hejsar) | [Email](mailto:slavikpokora567@gmail.com)
 
-Статистика GitHub (GitHub Readme Stats)
-Badges (технології, мови)
-Коротке посилання на портфоліо

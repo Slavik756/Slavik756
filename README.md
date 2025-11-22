@@ -21,7 +21,7 @@ REST API | Git | GitHub | Responsive/Adaptive Layout
 
 - [stackers-js-project](https://github.com/Slavik756/stackers-js-project) – This is a team project that includes new JavaScript features, such as the ability to switch between accent colors and toggle between light and dark themes. It also adds a modal window and a "back to top" button for easy navigation. The design is responsive, ensuring a smooth experience across mobile, tablet, and desktop devices.
 
-- 🗣️ Languages
+🗣️ Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 

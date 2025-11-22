@@ -24,11 +24,7 @@ REST API | Git | GitHub | Responsive/Adaptive Layout
 🗣️ Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-
 ![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square)
-
-
 ![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 
 📫 How to reach me:  

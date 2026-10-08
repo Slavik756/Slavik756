@@ -152,7 +152,7 @@ A responsive web application developed collaboratively as part of a frontend tea
 
 ---
 
-### 💪 PowerGym — Fitness Club & Booking Demo
+### 💪 Gym — Fitness Club & Booking Demo
 
 A responsive, multi-page fitness club website built with **vanilla JavaScript** and **Vite**, featuring an interactive class schedule and a demo booking system.
 
@@ -177,7 +177,7 @@ Modular JavaScript architecture with reusable components, separate page logic, a
 
 *Portfolio demo: bookings are stored locally in the browser and are not sent to a real fitness club.*
 
-🔗 [Live Demo](ht)
+🔗 [Live Demo](https://gym-orpin-mu.vercel.app/) · [Class Schedule](https://gym-orpin-mu.vercel.app/schedule.html) · [Booking](https://gym-orpin-mu.vercel.app/booking.html) · [Source Code](https://github.com/Slavik756/Gym)
 
 ---
 

@@ -164,6 +164,48 @@ A responsive fitness website featuring a modern layout and interactive frontend 
 
 ---
 
+### 📈 TradeBlade — Trading Platform Landing Page
+
+A responsive landing page for a cryptocurrency copy-trading platform, featuring a modern interface and interactive components.
+
+**Key Features:**
+
+* Responsive and adaptive layouts
+* Mobile navigation
+* Interactive sliders
+* Trading statistics sections
+* Pricing plans and FAQ
+* Modern UI design
+
+**Tech Stack:**
+
+`HTML5` `CSS3` `JavaScript` `Swiper`
+
+🔗 [Live Demo](https://slavik756.github.io/TradeBlade/) · [Source Code](https://github.com/Slavik756/TradeBlade)
+
+---
+
+### ⌚ WatchCharm — Team Web Project
+
+A responsive watch store website developed collaboratively as part of a frontend development team.
+
+**Key Features:**
+
+* Responsive product catalog
+* Watch collections
+* Promotional sections
+* Customer reviews
+* Contact section
+* Component-based HTML structure
+
+**Tech Stack:**
+
+`HTML5` `CSS3` `JavaScript` `Vite`
+
+🔗 [Live Demo](https://nastjademchyk.github.io/WatchCharm-team-project/) · [Source Code](https://github.com/Slavik756/WatchCharm-team-project)
+
+---
+
 ## 🏗️ Currently Building
 
 ### 💅 Beauty Studio Booking Platform

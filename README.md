@@ -152,15 +152,32 @@ A responsive web application developed collaboratively as part of a frontend tea
 
 ---
 
-### 💪 Gym — Fitness Website
+### 💪 PowerGym — Fitness Club & Booking Demo
 
-A responsive fitness website featuring a modern layout and interactive frontend elements.
+A responsive, multi-page fitness club website built with **vanilla JavaScript** and **Vite**, featuring an interactive class schedule and a demo booking system.
+
+**Key Features:**
+
+* Three pages: Home, Class Schedule, and Booking
+* Interactive class filtering by day and training category
+* Booking form with validation and confirmation
+* Browser-based booking persistence
+* Ability to manage and cancel saved bookings
+* Responsive design and accessible navigation
+* Unit testing with Node.js
+* End-to-end testing with Playwright
 
 **Tech Stack:**
 
-`HTML` `CSS` `JavaScript`
+`HTML5` `CSS3` `JavaScript` `Vite` `Playwright` `Vercel`
 
-🔗 [Live Demo](https://slavik756.github.io/Gym/) · [Source Code](https://github.com/Slavik756/Gym)
+**Architecture:**
+
+Modular JavaScript architecture with reusable components, separate page logic, and dedicated data management services.
+
+*Portfolio demo: bookings are stored locally in the browser and are not sent to a real fitness club.*
+
+🔗 [Live Demo](ht)
 
 ---
 

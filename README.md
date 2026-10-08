@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Slavik 👋
+# Hey, I'm Viacheslav 👋
 
 ### Junior Fullstack Developer
 

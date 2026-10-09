@@ -198,7 +198,7 @@ A responsive landing page for a cryptocurrency copy-trading platform, featuring 
 
 `HTML5` `CSS3` `JavaScript`
 
-🔗 [Source Code & Project Overview](https://github.com/Slavik756/TradeBlade#readme)
+🔗 [Source Code & Project Overview](https://tradeblade-pi.vercel.app/)
 
 ---
 

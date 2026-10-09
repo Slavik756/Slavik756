@@ -105,7 +105,7 @@ Users can discover recipes, filter content, manage personal recipes, and save th
 
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Swagger`
 
-🔗 [Live Demo](tasteorama-tau.vercel.app/) · [Frontend](https://github.com/Slavik756/Response-201-Front) · [Backend](https://github.com/Slavik756/Response-201-back)
+🔗 [Live Demo](https://tasteorama-tau.vercel.app/) · [Frontend](https://github.com/Slavik756/Response-201-Front) · [Backend](https://github.com/Slavik756/Response-201-back)
 
 ---
 

@@ -134,7 +134,7 @@ The project focuses on creative frontend development, smooth interactions, and r
 
 ### 💻 Stackers — Team JavaScript Project
 
-A responsive web application developed collaboratively as part of a frontend team.
+A collaborative learning project: a responsive portfolio website for the fictional developer **Lloyd Jefferson**. The persona and showcased work belong to the demo; this is not my personal portfolio website.
 
 **Key Features:**
 
@@ -183,7 +183,7 @@ Modular JavaScript architecture with reusable components, separate page logic, a
 
 ### 📈 TradeBlade — Trading Platform Landing Page
 
-A responsive landing page for a cryptocurrency copy-trading platform, featuring a modern interface and interactive components.
+A responsive portfolio landing page for a cryptocurrency copy-trading service, built with modular JavaScript and Vite. Charts, trade results, and pricing use demonstration or archival data; the site does not execute trades or provide live market data.
 
 **Key Features:**
 
@@ -192,11 +192,12 @@ A responsive landing page for a cryptocurrency copy-trading platform, featuring 
 * Scrollable trade cards
 * Trading statistics sections
 * Pricing plans and FAQ
-* Modern UI design
+* Keyboard-accessible navigation and demo forms
+* End-to-end browser tests with Playwright
 
 **Tech Stack:**
 
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `CSS3` `JavaScript` `Vite` `Playwright`
 
 🔗 [Live Demo](https://tradeblade-pi.vercel.app/) · [Source Code](https://github.com/Slavik756/TradeBlade)
 

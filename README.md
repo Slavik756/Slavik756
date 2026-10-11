@@ -10,7 +10,7 @@ Building modern web applications, exploring new technologies, and turning ideas 
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=58A6FF)](https://www.linkedin.com/in/pokora-viacheslav-1971a8350/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=58A6FF)](https://www.linkedin.com/in/viacheslav-pokora-1971a8350/)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge\&logo=telegram\&logoColor=58A6FF)](https://t.me/hejsar)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=58A6FF)](mailto:slavikpokora567@gmail.com)
 
@@ -290,7 +290,7 @@ I'm open to **Junior Frontend / Fullstack Developer opportunities**, collaborati
 
 📧 **Email:** [Get in Touch](mailto:slavikpokora567@gmail.com)
 
-💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/pokora-viacheslav-1971a8350/)
+💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/viacheslav-pokora-1971a8350/)
 
 💬 **Telegram:** [@hejsar](https://t.me/hejsar)
 

@@ -28,7 +28,7 @@ My experience includes working with MongoDB, PostgreSQL, authentication, state m
 
 I'm also expanding my backend knowledge by learning **Java**, which I've already practiced in a project, including experimenting with **Docker**.
 
-Currently, I'm working on a real-world commercial web application using Next.js, TypeScript, PostgreSQL, and modern fullstack development tools.
+My experience comes from personal and team projects. I have collaborated with QA engineers, project managers, designers, and backend developers. Currently, I'm developing a web application using Next.js, TypeScript, and PostgreSQL.
 
 **What I enjoy:**
 
@@ -91,6 +91,8 @@ Currently expanding my backend development knowledge through **Java**, with hand
 A fullstack recipe platform developed as a team project.
 
 Users can discover recipes, filter content, manage personal recipes, and save their favorite dishes.
+
+**My contribution:** Team Lead and Developer on a team learning project. Coordinated development and integrated teammates' changes through GitHub pull requests. Implemented recipe filters, mobile filter controls, and favorites UI; connected recipe requests to the deployed REST API. Contributed Express routes, controllers, and MongoDB service logic for favorite recipes.
 
 **Key Features:**
 
@@ -228,7 +230,7 @@ A responsive watch store website developed collaboratively as part of a frontend
 
 ### 💅 Beauty Studio Booking Platform
 
-**Real-world Commercial Project — In Development**
+**Project — In Development**
 
 Currently working on a web platform for a nail technician and educator based in the Netherlands.
 

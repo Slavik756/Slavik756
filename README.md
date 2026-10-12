@@ -222,7 +222,7 @@ A responsive watch store website developed collaboratively as part of a frontend
 
 `HTML5` `CSS3` `JavaScript` `Vite`
 
-🔗 [Live Demo](https://nastjademchyk.github.io/WatchCharm-team-project/) · [Source Code](https://github.com/Slavik756/WatchCharm-team-project)
+🔗 [Live Demo — maintained version](https://watchcharm-ochre.vercel.app/) · [Source Code](https://github.com/Slavik756/WatchCharm-team-project)
 
 ---
 

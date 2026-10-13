@@ -2,7 +2,7 @@
 
 # Hey, I'm Viacheslav 👋
 
-### Junior Fullstack Developer
+### Junior Frontend / Fullstack Developer
 
 **React • Next.js • TypeScript • Node.js • PostgreSQL**
 
@@ -20,7 +20,7 @@ Building modern web applications, exploring new technologies, and turning ideas 
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Fullstack Developer** passionate about building modern, scalable, and user-friendly web applications.
+I'm a **Junior Frontend / Fullstack Developer** passionate about building modern, scalable, and user-friendly web applications.
 
 I work with **React, Next.js, TypeScript, Node.js, and Express**, developing responsive interfaces, integrating REST APIs, and implementing backend functionality.
 
@@ -28,7 +28,7 @@ My experience includes working with MongoDB, PostgreSQL, authentication, state m
 
 I'm also expanding my backend knowledge by learning **Java**, which I've already practiced in a project, including experimenting with **Docker**.
 
-My experience comes from personal and team projects. I have collaborated with QA engineers, project managers, designers, and backend developers. Currently, I'm developing a web application using Next.js, TypeScript, and PostgreSQL.
+My experience comes from personal and team projects. I studied **Next.js** as part of my Fullstack Developer course at **GoIT**. Currently, I collaborate with QA, a project manager, a designer, and a backend developer on **Beauty Studio**, a booking platform in development using Next.js, TypeScript, and PostgreSQL.
 
 **What I enjoy:**
 
@@ -37,7 +37,7 @@ My experience comes from personal and team projects. I have collaborated with QA
 * 🎨 Creating responsive and intuitive interfaces
 * 🤝 Collaborating with other developers
 * 📚 Learning new technologies and improving existing skills
-* 💼 Growing toward a professional Fullstack Developer role
+* 💼 Looking for remote Junior Frontend / Fullstack Developer opportunities
 
 ---
 

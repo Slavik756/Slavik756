@@ -1,18 +1,20 @@
 <div align="center">
 
-# Hey, I'm Viacheslav 👋
+# Hi, I'm Viacheslav Pokora 👋
 
-### Junior Frontend / Fullstack Developer
+### Junior Fullstack & Frontend Developer
 
-**React • Next.js • TypeScript • Node.js • PostgreSQL**
+**React • Next.js • TypeScript • Node.js • Java • Spring Boot**
 
-Building modern web applications, exploring new technologies, and turning ideas into real products.
+📍 Perpignan, France 🇫🇷
+
+I build modern web applications, develop REST APIs, and turn ideas into functional digital products.
 
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=58A6FF)](https://www.linkedin.com/in/viacheslav-pokora-1971a8350/)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge\&logo=telegram\&logoColor=58A6FF)](https://t.me/hejsar)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=58A6FF)](mailto:slavikpokora567@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:slavikpokora567@gmail.com)
 
 </div>
 
@@ -20,30 +22,30 @@ Building modern web applications, exploring new technologies, and turning ideas 
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Frontend / Fullstack Developer** passionate about building modern, scalable, and user-friendly web applications.
+I'm **Viacheslav**, a Junior Fullstack Developer based in France.
 
-I work with **React, Next.js, TypeScript, Node.js, and Express**, developing responsive interfaces, integrating REST APIs, and implementing backend functionality.
+I specialize in building responsive web applications, developing backend functionality, integrating REST APIs, and working with databases.
 
-My experience includes working with MongoDB, PostgreSQL, authentication, state management, and collaborative development.
+My main technologies include:
 
-I'm also expanding my backend knowledge by learning **Java**, which I've already practiced in a project, including experimenting with **Docker**.
+* **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS.
+* **Backend:** Node.js, Express, Java, Spring Boot.
+* **Databases:** PostgreSQL, MongoDB, Prisma, Mongoose.
+* **Tools:** Git, GitHub, Docker, Postman, Swagger, Playwright, Vercel.
 
-My experience comes from personal and team projects. I studied **Next.js** as part of my Fullstack Developer course at **GoIT**. Currently, I collaborate with QA, a project manager, a designer, and a backend developer on **Beauty Studio**, a booking platform in development using Next.js, TypeScript, and PostgreSQL.
+I have experience contributing to collaborative projects, implementing application features, reviewing code, and working with development teams.
 
-**What I enjoy:**
+Currently, I'm contributing to **Elvira Nails**, a fullstack project for a nail studio and training academy in the Netherlands.
 
-* 🚀 Building real-world web applications
-* 🧩 Solving problems and improving application architecture
-* 🎨 Creating responsive and intuitive interfaces
-* 🤝 Collaborating with other developers
-* 📚 Learning new technologies and improving existing skills
-* 💼 Looking for remote Junior Frontend / Fullstack Developer opportunities
+I was also **admitted to 42 Paris in October 2026**, where I plan to continue developing my programming skills.
+
+🎯 **Career Goal:** Junior Fullstack Developer / Junior Frontend Developer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css\&logoColor=1572B6)
@@ -54,253 +56,218 @@ My experience comes from personal and team projects. I studied **Next.js** as pa
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge\&logo=redux\&logoColor=764ABC)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
 
-### ⚙️ Backend
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
 
-### 🗄️ Databases
+### Databases & CMS
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge\&logo=prisma\&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge\&logo=supabase\&logoColor=3FCF8E)
 
-### 🔧 Tools & Platforms
+Also working with **Payload CMS, Mongoose, Spring Data JPA and Flyway**.
+
+### Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge\&logo=swagger\&logoColor=85EA2D)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
+![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge\&logo=playwright\&logoColor=2EAD33)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge\&logo=vite\&logoColor=646CFF)
-
-### 🌱 Currently Learning & Exploring
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-
-Currently expanding my backend development knowledge through **Java**, with hands-on project practice and initial experience using Docker.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍳 Tasteorama — Fullstack Recipe Application
+### 💅 Elvira Nails — Fullstack Web Application
 
-A fullstack recipe platform developed as a team project.
+**Role:** Fullstack Developer
+**Status:** In Development
+**Type:** Collaborative Project
 
-Users can discover recipes, filter content, manage personal recipes, and save their favorite dishes.
+A web platform for a nail studio and training academy in the Netherlands.
 
-**My contribution:** Team Lead and Developer on a team learning project. Coordinated development and integrated teammates' changes through GitHub pull requests. Implemented recipe filters, mobile filter controls, and favorites UI; connected recipe requests to the deployed REST API. Contributed Express routes, controllers, and MongoDB service logic for favorite recipes.
+**My Contributions:**
 
-**Key Features:**
+* Frontend and backend development using Next.js and TypeScript.
+* Integration and configuration of Payload CMS.
+* Multilingual content management.
+* Database integration using PostgreSQL, Supabase and Prisma.
+* Collaboration through GitHub and Jira.
 
-* User registration and authentication
-* Recipe management
-* Search and filtering
-* Favorites management
-* REST API integration
-* API documentation
+**Tech Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Payload CMS` `PostgreSQL` `Prisma` `Supabase`
 
-**Tech Stack:**
-
-`React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Swagger`
-
-🔗 [Live Demo](https://tasteorama-tau.vercel.app/) · [Frontend](https://github.com/Slavik756/Response-201-Front) · [Backend](https://github.com/Slavik756/Response-201-back)
+[GitHub Repository](https://github.com/ElviraNailsProject/elvira-nails-web)
 
 ---
 
-### ❤️ You My Heart — Interactive Web Experience
+### 🌿 Verdora — Java Spring Boot E-commerce Backend
 
-An interactive application combining storytelling, animations, music, and a photo gallery.
+**Role:** Backend Developer
+**Type:** Collaborative Project
 
-The project focuses on creative frontend development, smooth interactions, and responsive design.
+An e-commerce backend developed with Java and Spring Boot.
 
-**Key Features:**
+**My Contributions:**
 
-* Custom Canvas animations
-* Interactive storytelling
-* Music player
-* Responsive photo gallery
-* Lightbox with interactive controls
-* Optimized images and assets
+* Implemented category retrieval with pagination.
+* Developed filtering and sorting functionality for orders.
+* Worked with Spring Data JPA and PostgreSQL.
+* Updated database constraints through Flyway migrations.
+* Contributed automated tests and collaborated through GitHub pull requests.
 
-**Tech Stack:**
+**Tech Stack:** `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Flyway` `Docker`
 
-`React` `TypeScript` `Canvas API` `Vite`
+[Backend Source Code](https://github.com/MaksymChalyi/Verdora-backend) | [Team Frontend Demo](https://notnikbtw.github.io/verdora-frontend/)
 
-🔗 [Live Demo](https://gift-chi-five.vercel.app/) · [Source Code](https://github.com/Slavik756/gift)
-
----
-
-### 💻 Stackers — Team JavaScript Project
-
-A collaborative learning project: a responsive portfolio website for the fictional developer **Lloyd Jefferson**. The persona and showcased work belong to the demo; this is not my personal portfolio website.
-
-**Key Features:**
-
-* Responsive design
-* Theme switching
-* Interactive modal windows
-* Dynamic UI components
-* Smooth navigation
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Vite`
-
-🔗 [Live Demo](https://mykhaito.github.io/stackers-js-project/) · [Source Code](https://github.com/Slavik756/stackers-js-project)
+*My contribution focused on backend development. The frontend was developed by other team members.*
 
 ---
 
-### 💪 Gym — Fitness Club & Booking Demo
+### 🍳 Tasteorama — Fullstack Recipe Platform
 
-A responsive, multi-page fitness club website built with **vanilla JavaScript** and **Vite**, featuring an interactive class schedule and a demo booking system.
+**Role:** Team Lead / Fullstack Developer
+**Type:** Team Learning Project
 
-**Key Features:**
+A fullstack application for discovering recipes, filtering ingredients, and managing favorites.
 
-* Three pages: Home, Class Schedule, and Booking
-* Interactive class filtering by day and training category
-* Booking form with validation and confirmation
-* Browser-based booking persistence
-* Ability to manage and cancel saved bookings
-* Responsive design and accessible navigation
-* Unit testing with Node.js
-* End-to-end testing with Playwright
+**My Contributions:**
 
-**Tech Stack:**
+* Coordinated development and integrated pull requests.
+* Implemented category and ingredient filters.
+* Developed mobile filter interfaces.
+* Integrated REST API endpoints.
+* Contributed backend functionality for managing favorite recipes.
 
-`HTML5` `CSS3` `JavaScript` `Vite` `Playwright` `Vercel`
+**Tech Stack:** `React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Mongoose`
 
-**Architecture:**
-
-Modular JavaScript architecture with reusable components, separate page logic, and dedicated data management services.
-
-*Portfolio demo: bookings are stored locally in the browser and are not sent to a real fitness club.*
-
-🔗 [Live Demo](https://gym-orpin-mu.vercel.app/) · [Class Schedule](https://gym-orpin-mu.vercel.app/schedule.html) · [Booking](https://gym-orpin-mu.vercel.app/booking.html) · [Source Code](https://github.com/Slavik756/Gym)
+[Live Demo](https://tasteorama-tau.vercel.app/) | [Frontend](https://github.com/Slavik756/Response-201-Front) | [Backend](https://github.com/Slavik756/Response-201-back)
 
 ---
 
-### 📈 TradeBlade — Trading Platform Landing Page
+### ❤️ You My Heart — Interactive React Application
 
-A responsive portfolio landing page for a cryptocurrency copy-trading service, built with modular JavaScript and Vite. Charts, trade results, and pricing use demonstration or archival data; the site does not execute trades or provide live market data.
+**Role:** Frontend Developer
+**Type:** Personal Project
 
-**Key Features:**
-
-* Responsive and adaptive layouts
-* Mobile navigation
-* Scrollable trade cards
-* Trading statistics sections
-* Pricing plans and FAQ
-* Keyboard-accessible navigation and demo forms
-* End-to-end browser tests with Playwright
-
-**Tech Stack:**
-
-`HTML5` `CSS3` `JavaScript` `Vite` `Playwright`
-
-🔗 [Live Demo](https://tradeblade-pi.vercel.app/) · [Source Code](https://github.com/Slavik756/TradeBlade)
-
----
-
-### ⌚ WatchCharm — Team Web Project
-
-A responsive watch store website developed collaboratively as part of a frontend development team.
+An interactive web experience combining storytelling, animations, music and photography.
 
 **Key Features:**
 
-* Responsive product catalog
-* Watch collections
-* Promotional sections
-* Customer reviews
-* Contact section
-* Component-based HTML structure
+* Interactive storytelling.
+* Custom Canvas animations.
+* Music and audio controls.
+* Responsive photo gallery.
+* Interactive lightbox.
+* Optimized WebP assets.
 
-**Tech Stack:**
+**Tech Stack:** `React` `TypeScript` `JavaScript` `Canvas API` `Vite`
 
-`HTML5` `CSS3` `JavaScript` `Vite`
-
-🔗 [Live Demo — maintained version](https://watchcharm-ochre.vercel.app/) · [Source Code](https://github.com/Slavik756/WatchCharm-team-project)
+[Live Demo](https://gift-chi-five.vercel.app/) | [Source Code](https://github.com/Slavik756/gift)
 
 ---
 
-## 🏗️ Currently Building
+### 💪 PowerGym — Fitness Website
 
-### 💅 Beauty Studio Booking Platform
+**Role:** Frontend Developer
+**Type:** Personal Project
 
-**Project — In Development**
+A responsive fitness website featuring interactive class schedules and a browser-based booking system.
 
-Currently working on a web platform for a nail technician and educator based in the Netherlands.
+**Key Features:**
 
-The project is designed to provide a professional online presence, service booking functionality, and tools for managing business operations.
+* Training calendar and filters.
+* Booking validation and confirmation.
+* LocalStorage reservation management.
+* Responsive user interfaces.
+* Automated testing with Playwright.
 
-**Project Goals:**
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Vite` `Playwright`
 
-* Responsive public website
-* Online appointment booking
-* Services and availability management
-* Administrative dashboard
-* Secure authentication and authorization
-* Database-driven business operations
-* Separate development and production environments
+[Live Demo](https://gym-orpin-mu.vercel.app/) | [Source Code](https://github.com/Slavik756/Gym)
 
-**Technology Stack (In Development):**
+---
 
-`Next.js 16` `TypeScript` `Tailwind CSS` `PostgreSQL` `Supabase` `Prisma 7`
+### 📈 TradeBlade — Responsive Landing Page
 
-**Additional Technologies:**
+A responsive landing page for a demonstration trading service.
 
-`React Hook Form` `Zod` `TanStack Query` `date-fns`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Vite` `Playwright`
 
-**Development & Deployment:**
+[Live Demo](https://tradeblade-pi.vercel.app/) | [Source Code](https://github.com/Slavik756/TradeBlade)
 
-`Vercel` `GitHub Actions` `ESLint` `Prettier`
+---
 
-The project follows an architecture that separates UI components, business logic, and database operations.
+### 💻 Stackers — Interactive Portfolio Website
 
-Security, maintainability, and responsible handling of user data are important priorities.
+A collaborative JavaScript project featuring theme switching, accent color customization, interactive components and responsive design.
 
-*More details and a public demo will be available as development progresses.*
+The website represents a fictional developer, Lloyd Jefferson.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Vite`
+
+[Live Demo](https://mykhaito.github.io/stackers-js-project/) | [Source Code](https://github.com/Slavik756/stackers-js-project)
+
+---
+
+### ⌚ WatchCharm — Responsive Watch Store
+
+A collaborative frontend project featuring product collections, promotional content and responsive layouts.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Vite`
+
+[Live Demo](https://watchcharm-ochre.vercel.app/) | [Source Code](https://github.com/Slavik756/WatchCharm-team-project)
+
+---
+
+## 🎓 Education
+
+**42 Paris** — Admitted, October 2026
+
+**GoIT — Fullstack Development Course** — 2024–2025
+
+Studied JavaScript, React, Node.js, REST APIs, databases and collaborative web development.
 
 ---
 
 ## 🤝 Development Approach
 
-I value clean, maintainable code and collaborative development.
+I focus on writing maintainable code, solving practical problems, and collaborating effectively with development teams.
 
-My development experience and current areas of focus include:
+My experience includes:
 
-* Component-based architecture
-* REST API integration
-* Authentication and authorization
-* Responsive and adaptive design
-* Git and GitHub collaboration
-* Pull Requests and code reviews
-* Code quality and linting
-* API documentation with Swagger / OpenAPI
-* Application deployment
-* Secure environment configuration
-* CI/CD workflows
+* Component-based application architecture.
+* REST API development and integration.
+* Authentication and authorization.
+* Database management.
+* Responsive web development.
+* Automated testing.
+* Pull requests and code reviews.
+* Application deployment.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-I'm open to **Junior Frontend / Fullstack Developer opportunities**, collaboration, and interesting projects.
+I'm open to **Junior Fullstack Developer** and **Junior Frontend Developer** opportunities.
 
-📧 **Email:** [Get in Touch](mailto:slavikpokora567@gmail.com)
-
-💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/viacheslav-pokora-1971a8350/)
-
-💬 **Telegram:** [@hejsar](https://t.me/hejsar)
+**Location:** Perpignan, France
+**Email:** [slavikpokora567@gmail.com](mailto:slavikpokora567@gmail.com)
+**LinkedIn:** [Viacheslav Pokora](https://www.linkedin.com/in/viacheslav-pokora-1971a8350/)
+**Telegram:** [@hejsar](https://t.me/hejsar)
 
 ---
 
 <div align="center">
 
-### Always learning. Always building.
+### Always learning. Always building. 🚀
 
 *Turning ideas into real-world applications.*
 

@@ -12,7 +12,7 @@ I build modern web applications, develop REST APIs, and turn ideas into function
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viacheslav-pokora-1971a8350/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/viacheslav-pokora-1971a8350/)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge\&logo=telegram\&logoColor=58A6FF)](https://t.me/hejsar)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:slavikpokora567@gmail.com)
 

@@ -49,6 +49,30 @@ I was also **admitted to 42 Paris in October 2026**, where I plan to continue de
 
 ---
 
+## 🌟 Open-Source Recognition
+
+### 🚀 XERJ Corpus Hub Contributor
+
+My contribution to the **Elvira Nails** project was selected
+for inclusion in the **XERJ Corpus Hub**, a public index of
+real-world code that AI coding agents can use as a reference.
+
+**Selected contribution:**
+`feat: add services api and ukrainian locale`
+
+**Technologies:** TypeScript, SQL, Next.js
+
+The contribution includes a Services API and Ukrainian
+localization, developed as part of the Elvira Nails team.
+
+[![XERJ Corpus Hub](https://img.shields.io/badge/XERJ-Corpus_Hub_Contributor-10B981?style=for-the-badge)](https://hub.xerj.org/contributors/Slavik756)
+
+🔗 [View My Contributor Profile](https://hub.xerj.org/contributors/Slavik756)
+
+💻 [View Elvira Nails Repository](https://github.com/ElviraNailsProject/elvira-nails-web)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
